@@ -1,0 +1,22 @@
+#perfil {
+  transform:rotate(-5deg);
+  margin: 0px;
+  padding: 0px;
+  top: -56px;
+  left: 20%;
+  background-repeat: no-repeat;
+  background-size:100%;
+  position: fixed;
+  text-decoration:none;
+  font-size:16.5px;
+  width:285px;
+  height: 200px;
+}
+#foto{
+margin-top:65px;
+margin-left:67px
+}
+#texto{
+margin-top:-48px;
+margin-left:117px
+}
